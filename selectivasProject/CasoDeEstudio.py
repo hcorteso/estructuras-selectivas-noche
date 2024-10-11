@@ -54,7 +54,7 @@ def validar_datos(tipo_hamburguesa, medio_pago, cantidad):
 
 # Entradas
 tipo_hamburguesa = int(input("Ingrese tipo de hamburguesa \n1. sencilla \n2. Doble \n3. Triple \n"))
-medio_pago = int(input("Ingrese medio de pago \n1. Tarjeta \2. Otro \n"))
+medio_pago = int(input("Ingrese medio de pago \n1. Tarjeta \n2. Otro \n"))
 cantidad = int(input("Ingrese la cantidad: "))
 
 #salidas
